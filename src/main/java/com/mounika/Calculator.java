@@ -20,13 +20,15 @@ public class Calculator {
    	 return a / b;
     }
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// TODO Auto-generated method stub qqqqqq
 		Calculator object = new Calculator( );
 	      System.out.println(object.sum(object.a,object.b));
 	      System.out.println(object.sub(object.a,object.b));
 	      System.out.println(object.mul(object.a,object.b));
 	      System.out.println(object.divide(object.a,object.b));
 	}
+public void additiiion(){
+}
 }
 
 
